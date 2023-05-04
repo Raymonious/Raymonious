@@ -1,11 +1,9 @@
-<div id = "header", align="center">
-  <img src = "https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif" , width ="150"/>
-</div>
+
+<img src = "https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif" align="right" width ="250"/>
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
 
 My name is Raymond Chen and I am currently a second-year undergrad student at KTH Royal Institute of Technology, studying a program of BSc Information and communication technology with expected year of graduation in 2024. This is a program that enriches me with a broad spectrum of various disciplines within the field of ICT, including but not limited to computer science, embedded electronics and network & communication.
-
 Feel free to contact me or check out my experience and education from my LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/raymond-weizhong-c-53b61a193">
@@ -53,6 +51,6 @@ Feel free to contact me or check out my experience and education from my LinkedI
  
   ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymonious)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymonious&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
