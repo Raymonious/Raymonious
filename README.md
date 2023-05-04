@@ -1,38 +1,60 @@
-### Hi there 👋
+<div id = "header", align="center">
+  <img src = "https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif" , width ="150"/>
+</div>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-# Languages & Tools 👨‍💻 🛠:
-</br>
+### 👋 Hi there, welcome to my GitHub portfolio 👋
 
-<p align="center">
+My name is Raymond Chen and I am currently a second-year undergrad student at KTH Royal Institute of Technology, studying a program of BSc Information and communication technology with expected year of graduation in 2024. This is a program that enriches me with a broad spectrum of various disciplines within the field of ICT, including but not limited to computer science, embedded electronics and network & communication.
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
+Feel free to contact me or check out my experience and education from my LinkedIn:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/raymond-weizhong-c-53b61a193">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<div align="center">
+</div>
+
+ ---
+
+### :smile: About Me:
+  - 🌱 
+  - 💬 I am experienced with working on projects in large teams
+  - ⚡ In my free time, I enjoy solving problems on LeetCode
+  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Weichen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weichen-chai-897479222/)
+  
+  ---
+👨‍💻 Some projects I have worked on:
+- [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming I](https://gits-15.sys.kth.se/weichenc/ID1018)
+- [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://github.com/ChickenTheSlayer/IS1200)
+- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures](https://github.com/ChickenTheSlayer/ID1021-Algorithms-and-Data-Structures)
+- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication](https://github.com/ChickenTheSlayer/IK1203-Network-And-Com)
+- [ID1206 -](https://www.kth.se/student/kurser/kurs/ID1206) [Operating Systems](https://github.com/ChickenTheSlayer/ID1206)
+- [ID1019 -](https://www.kth.se/student/kurser/kurs/ID1019) [Programming II](https://github.com/ChickenTheSlayer/ID1019-Programming-2)
 
 
+  ---
+### :hammer_and_wrench: Languages and Tools:
+  <div>
+    <a href="https://www.latex-project.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
+  <a href="https://www.java.com/en/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://html.com/html5/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <a href="https://atom.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
+  <a href="https://www.arduino.cc/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
+  <a href="https://slack.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
+     <a href="https://reactnative.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="Slack" width="40" height="40"/>
 
+ 
+  ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymonious&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTheSlayer)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
