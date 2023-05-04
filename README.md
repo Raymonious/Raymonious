@@ -20,7 +20,7 @@ Feel free to contact me or check out my experience and education from my LinkedI
   - 🌱 
   - 💬 I am experienced with working on projects in large teams
   - ⚡ In my free time, I enjoy solving problems on LeetCode
-  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Weichen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weichen-chai-897479222/)
+  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Raymond-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-weizhong-c-53b61a193)
   
   ---
 👨‍💻 Some projects I have worked on:
