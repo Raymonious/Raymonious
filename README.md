@@ -16,7 +16,7 @@ Feel free to contact me or check out my experience and education from my LinkedI
 
 ### :smile: About Me:
   - 💬 I am experienced with working on projects in large teams
-  - ⚡ In my free time, I enjoy solving problems on LeetCode
+  - ⚡ In my free time, I enjoy playing ping pong and solving Kattis challenges
   - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Raymond-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-weizhong-c-53b61a193)
   
   ---
@@ -51,6 +51,6 @@ Feel free to contact me or check out my experience and education from my LinkedI
  
   ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymonious&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raymonious)](https://github.com/anuraghazra/github-readme-stats)
 
 
