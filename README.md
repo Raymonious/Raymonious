@@ -21,7 +21,6 @@ Feel free to contact me or check out my experience and education from my LinkedI
   
   ---
 👨‍💻 Some projects I have worked on:
-- [DH2642 -](https://www.kth.se/student/kurser/kurs/DH2642)[ Interaction Programming and Web Development](https://github.com/Raymonious/Dinner-Planner)
 - [DH2642 -](https://www.kth.se/student/kurser/kurs/DH2642) [Interaction Programming and Web Development](https://github.com/Raymonious/Where-in-the-world-)
 - [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://gits-15.sys.kth.se/rayche/IS1200-Computer-Hardware-Engineering)
 
